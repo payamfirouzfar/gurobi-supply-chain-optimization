@@ -1,2 +1,2 @@
 # gurobi-supply-chain-optimization
-some parts of columbia university decision making course and exercises
+columbia university decision making course practices and exercises
